@@ -1,1 +1,38 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    background-color: lightsteelblue;
+    display:block;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top:100px;
+  }
+
+
+#mainHeading{
+    color: red;
+
+}
+
+#skip{
+    margin-left: 350px;
+}
+figcaption{
+    text-align: center;
+    font-size: 25px;
+}
+
+.funParagraph{
+    color: green;
+}
+
+ul{
+    columns: 2;
+    margin-left: 100px;
+    margin-right: 300px;
+}
